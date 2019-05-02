@@ -41,7 +41,7 @@ app.post('/', function(req, res) {
     url: 'https://us20.api.mailchimp.com/3.0/lists/bf017a8bd4',
     method: "POST",
     headers: {
-      "Authorization": 'Scarlett dce7fdff747dc10b7bfac7c2fcf7b32b-us20'
+      "Authorization": 'Scarlett '
     },
     body: jsonData
   }
